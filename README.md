@@ -1,5 +1,6 @@
+![thoughtworks-gif_dribbble](https://github.com/madhukar-ranjan/madhukar-ranjan/assets/143316873/48dedded-2ec1-4f6c-816e-80690a8fe86f)
 # 💫 About Me:
-🔭 I’m currently working on some good projects.<br>👯 I’m looking to collaborate on some interesting  projects.<br>🤝 I’m looking for help with competitive programming.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about anything related to programming.<br>⚡ Fun fact I'm national level chess player. ![thoughtworks-gif_dribbble](https://github.com/madhukar-ranjan/madhukar-ranjan/assets/143316873/48dedded-2ec1-4f6c-816e-80690a8fe86f)
+🔭 I’m currently working on some good projects.<br>👯 I’m looking to collaborate on some interesting  projects.<br>🤝 I’m looking for help with competitive programming.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about anything related to programming.<br>⚡ Fun fact I'm national level chess player. 
 
 
 
