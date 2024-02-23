@@ -1,4 +1,3 @@
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 # 💫 About Me:
 🔭 I’m currently working on some good projects.<br>👯 I’m looking to collaborate on some interesting  projects.<br>🤝 I’m looking for help with competitive programming.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about anything related to programming.<br>⚡ Fun fact I'm national level chess player. 
 
