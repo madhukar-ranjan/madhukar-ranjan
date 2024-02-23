@@ -1,12 +1,7 @@
 # 💫 About Me:
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-🔭 I’m currently working on some good projects.<br>👯 I’m looking to collaborate on some interesting  projects.<br>🤝 I’m looking for help with competitive programming.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about anything related to programming.<br>⚡ Fun fact I'm national level chess player. 
+🔭 I’m currently working on some good projects.<br><br>👯 I’m looking to collaborate on some interesting  projects.<br><br>🤝 I’m looking for help with competitive programming.<br><br>🌱 I’m currently learning MERN stack.<br><br>💬 Ask me about anything related to programming.<br><br>⚡ Fun fact I'm national level chess player. 
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 
 
